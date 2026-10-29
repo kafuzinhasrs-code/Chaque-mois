@@ -1,5 +1,5 @@
 
-const LIEN_PAIEMENT = "https://buy.stripe.com/REMPLACER";
+const LIEN_PAIEMENT = "https://buy.stripe.com/dRm00l5Z23lH2sU4XxbII00";
 const EMAIL = "REMPLACER@email.com";
 
 const faq = [
